@@ -1,0 +1,50 @@
+#box{
+  
+  width: 400px;
+  height: 500px;
+  background: #B8860B;
+  position: relative;
+  right: -410px;
+  color: #FFF8DC;
+}
+
+#gauteng {
+  position: relative;
+  right: -140px;
+}
+#image{
+  width: 120px;
+  height: 120px;
+  position: relative;
+  top: -30px;
+  right: -140px;
+}
+#day {
+  position: relative;
+  right: -170px;
+}
+#temp{
+   position: relative;
+   right: -160px;
+   top: -60px;
+}
+h3 {
+  display: inline-block;
+  position: relative;
+  right: -10px;
+  background: #FFD700;
+  
+}
+h5{
+  display: inline-block;
+  position: relative;
+  right: -30px;
+  background: #FFD700;
+}
+#images {
+  width: 60px;
+  height: 60px;
+  display: inline-block;
+  position: relative;
+  right: -40px;
+}
